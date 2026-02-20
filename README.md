@@ -1,55 +1,39 @@
-# <p align="center">✨ Welcome to my Secret Garden of Code ✨</p>
+# <p align="center">✨ The Coding Atelier of Yash Chouhan ✨</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=76946A&center=true&vCenter=true&width=500&lines=Swift+Artisan;Building+iOS+Dreams;DSA+Explorer;UIKit+%26+SwiftUI+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=76946A&center=true&vCenter=true&width=500&lines=Senior+iOS+Developer;SwiftUI+Artisan;Clean+Architecture+Advocate;Daily+DSA+Grinder" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=76946A&height=200&section=header&text=Hi,%20I'm%20Yash&fontSize=50&animation=fadeIn&fontAlignY=35" />
-</p>
+### 🌿 About Me
+I am a **Senior iOS Developer** at **Workpulse Software**, where I’ve been crafting digital experiences since February 2024. I find beauty in the simplicity of Swift and the power of SwiftUI. My goal is to build apps that are as reliable as they are enchanting.
+
+- 🔭 **At Work:** Leading iOS development with a focus on **Clean MVVM** and performance.
+- 🎨 **Passion:** Breathing life into apps with **SwiftUI Animations** and **SwiftData**.
+- 🧠 **Challenge:** Solving daily **DSA** problems to master the logic behind the magic.
 
 ---
 
-### 🧺 About Me
-Like a character in a Ghibli film, I believe in the magic of small details. I am an **iOS Developer** dedicated to crafting seamless experiences using the Apple ecosystem. Whether it's managing complex data or building playful games, I treat every line of code like a hand-painted frame.
-
-- 🌿 **Current Quest:** Solving one DSA problem daily in my [DSAPreperation](https://github.com/yashChouhanGit/DSAPreperation) repo.
-- 🎨 **Philosophy:** Clean architecture, "Swifty" code, and pixel-perfect UI.
-- ☁️ **Dream:** Creating apps that feel as nostalgic and soothing as a summer afternoon in the countryside.
-
----
-
-### 🛠️ The Workshop (Tech Stack)
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=swift,apple,xcode,git,github,cpp,py&theme=light" />
-  </a>
-</p>
-
-#### 🧪 Specialized In:
-* **UI/UX:** Crafting modern interfaces with `SwiftUI` and robust legacy layouts with `UIKit`.
-* **Data:** Architecting local storage solutions using `Core Data`.
-* **Logic:** Mastering `Data Structures` to ensure high-performance applications.
-* **Fun:** Building interactive experiences and `Games` using SpriteKit/Swift.
+### 🛠️ Technical Spells (Skills)
+- **Frameworks:** `SwiftUI` (Deeply Loved), `UIKit`, `SwiftData`, `Core Data`.
+- **Architecture:** `Clean MVVM`, `MVC`, `Modular Design`.
+- **Patterns:** `Delegation`, `Singleton`, `Key-Value Observing (KVO)`.
+- **Specialties:** `Game Development`, `Complex Animations`, `Performance Tuning`.
 
 ---
 
-### 🚀 My Magical Projects
-
-| Project | Description | Essence |
+### 🚀 Magical Projects
+| Project | Description | Tech |
 | :--- | :--- | :--- |
-| **📦 DSA Prep** | A daily journey through algorithms. | 🧠 Logic |
-| **🏗️ SwiftUI Lab** | Exploring declarative UI and animations. | 🎨 Art |
-| **💾 CoreData Pro** | Deep dive into persistent storage. | 📚 Memory |
-| **🎮 Game World** | Building 2D worlds and game mechanics. | ✨ Play |
+| **📦 DSA Lab** | My daily algorithm sanctuary. | Swift, Logic |
+| **🎮 Game World** | Exploring interactive mechanics. | SpriteKit, Swift |
+| **📱 SwiftUI Lab** | A collection of high-end animations. | SwiftUI, SwiftData |
 
 ---
 
-### 📈 Daily Contributions
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=gradianto&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dracula" height="150" />
 </p>
 
 <p align="center">
-  <i>"It’s funny how you wake up one day and your life has changed." — The Wind Rises</i>
+  <i>"We each need to find our own inspiration, Kiki. Sometimes it's not easy."</i>
 </p>
