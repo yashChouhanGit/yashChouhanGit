@@ -1,39 +1,55 @@
-# <p align="center">✨ The Coding Atelier of Yash Chouhan ✨</p>
+# <p align="center">✨ The Digital Atelier of Yash Chouhan ✨</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=76946A&center=true&vCenter=true&width=500&lines=Senior+iOS+Developer;SwiftUI+Artisan;Clean+Architecture+Advocate;Daily+DSA+Grinder" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=PT+Serif&size=25&pause=1000&color=76946A&center=true&vCenter=true&width=600&lines=Senior+iOS+Developer;SwiftUI+%26+SwiftData+Artisan;Clean+Architecture+Architect;6+Years+of+Mobile+Innovation" alt="Typing SVG" />
 </p>
 
-### 🌿 About Me
-I am a **Senior iOS Developer** at **Workpulse Software**, where I’ve been crafting digital experiences since February 2024. I find beauty in the simplicity of Swift and the power of SwiftUI. My goal is to build apps that are as reliable as they are enchanting.
-
-- 🔭 **At Work:** Leading iOS development with a focus on **Clean MVVM** and performance.
-- 🎨 **Passion:** Breathing life into apps with **SwiftUI Animations** and **SwiftData**.
-- 🧠 **Challenge:** Solving daily **DSA** problems to master the logic behind the magic.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=76946A&height=220&section=header&text=Welcome%20to%20my%20Garden&fontSize=40&animation=fadeIn&fontAlignY=38" />
+</p>
 
 ---
 
-### 🛠️ Technical Spells (Skills)
-- **Frameworks:** `SwiftUI` (Deeply Loved), `UIKit`, `SwiftData`, `Core Data`.
-- **Architecture:** `Clean MVVM`, `MVC`, `Modular Design`.
-- **Patterns:** `Delegation`, `Singleton`, `Key-Value Observing (KVO)`.
-- **Specialties:** `Game Development`, `Complex Animations`, `Performance Tuning`.
+### 🧺 A Glimpse Into My World
+I am a **Senior iOS Developer** at **Workpulse Software**, where I blend engineering rigor with creative design. My journey began in 2019, and since then, I have been dedicated to crafting user-centric mobile solutions that feel as smooth as a Ghibli summer breeze.
+
+- 🔭 **Current Quest:** Leading iOS development at Workpulse and mastering **SwiftUI Animations**.
+- 🎨 **Passion:** Implementing **Clean Architecture** and **SOLID** principles to build scalable digital worlds.
+- 🧪 **Daily Ritual:** Sharpening my logic with **DSA** challenges and exploring **SwiftData**.
 
 ---
 
-### 🚀 Magical Projects
-| Project | Description | Tech |
+### 🛠️ The Artisan's Tools
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=swift,apple,xcode,git,github,cpp,py,firebase&theme=light" />
+  </a>
+</p>
+
+#### 🧪 Specialized Spells:
+* **UI/UX:** Native **SwiftUI** (Animations), **UIKit** (Storyboards, XIBs).
+* **Architecture:** **Clean Architecture**, **MVVM**, **MVC**.
+* **Patterns:** Delegation, Singleton, KVO, and Protocol-Oriented Programming.
+* **Concurrency:** Combine, GCD, and modern `async/await`.
+
+---
+
+### 🚀 Magical Artifacts (Key Projects)
+
+| Project | Description | Core Magic |
 | :--- | :--- | :--- |
-| **📦 DSA Lab** | My daily algorithm sanctuary. | Swift, Logic |
-| **🎮 Game World** | Exploring interactive mechanics. | SpriteKit, Swift |
-| **📱 SwiftUI Lab** | A collection of high-end animations. | SwiftUI, SwiftData |
+| **📦 Asset** | Modern ticket management for restaurants. | SwiftUI, Location Manager |
+| **🛡️ Shopie** | Security app with voice-activated emergency modes. | Camera, Background Location |
+| **📝 Task Easy** | Contractor-based task assignment platform. | URLSession, REST APIs |
 
 ---
 
+### 📈 Growing My Garden
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dracula" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yashChouhanGit&show_icons=true&theme=gradianto&hide_border=true" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashChouhanGit&theme=gradianto&hide_border=true" height="160" />
 </p>
 
 <p align="center">
-  <i>"We each need to find our own inspiration, Kiki. Sometimes it's not easy."</i>
+  <i>"No matter how many weapons you have... the world cannot live without love." — Castle in the Sky</i>
 </p>
