@@ -35,14 +35,5 @@ I am a **Senior iOS Developer** at **Workpulse Software**. Since starting my jou
 * ⚡ **Concurrency:** **Combine**, **GCD**, and modern **async/await**.
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yashChouhanGit&show_icons=true&theme=tokyonight&border_radius=20" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashChouhanGit&theme=tokyonight&hide_border=true" height="150" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MaySper/MaySper/master/img/totoro_walk.gif" width="150" />
-</p>
-
-<p align="center">
   <i>"No matter how many weapons you have... the world cannot live without love." — Castle in the Sky</i>
 </p>
