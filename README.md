@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=A2D2FF&height=100&text=Yash%20Chouhan&fontSize=80&animation=fadeIn&fontAlignY=40&fontStyle=bold&font=capsule-render" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=F4C2C2&text=Yash%20Chouhan&fontSize=90&animation=fadeIn&fontAlignY=45&fontStyle=normal&font=Dancing+Script" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=PT+Serif&size=30&pause=1000&color=A2D2FF&center=true&vCenter=true&width=600&lines=Senior+iOS+Developer;SwiftUI+Artisan;6+Years+of+Innovation" alt="Role Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=35&pause=1000&color=F4C2C2&center=true&vCenter=true&width=600&lines=Senior+iOS+Developer;SwiftUI+Artisan;6+Years+of+Mobile+Innovation;Clean+Architecture+Architect" alt="Role Animation" />
 </p>
 
 <p align="center">
@@ -12,32 +12,43 @@
 
 ---
 
-### 🧺 A Glimpse Into My World
-I am a **Senior iOS Developer** at **Workpulse Software**. Since 2019, I have been dedicated to crafting user-centric mobile solutions that feel as smooth as a Ghibli summer breeze.
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Butterfly.png" width="35"> A Glimpse Into My World
+I am a **Senior iOS Developer** at **Workpulse Software**. Since starting my journey in 2019, I have been dedicated to crafting user-centric mobile solutions that feel as smooth as a Ghibli summer breeze. I specialize in building scalable apps that balance complex logic with beautiful design.
 
-- 🌠 **Current Quest:** Senior iOS development at **Workpulse** and mastering **SwiftUI Animations**.
-- 🌌 **Passion:** Implementing **Clean Architecture** and **SOLID** principles to build scalable digital worlds.
-- 🧪 **Daily Ritual:** Sharpening my logic with **DSA** challenges and exploring **SwiftData**.
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Crystal%20Ball.png" width="20"> **Current Quest:** Leading iOS development at **Workpulse** and mastering advanced **SwiftUI Animations**.
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand.png" width="20"> **Passion:** Implementing **Clean Architecture**, **MVVM**, and **SOLID** principles to build world-class applications.
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkler.png" width="20"> **Daily Ritual:** Sharpening my logic with **DSA** challenges and exploring the future of **SwiftData**.
 
 ---
 
-### 🛠️ The Artisan's Tools
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="35"> The Artisan's Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=swift,apple,git,github,firebase&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=swift,apple,git,github,firebase,cpp,py,vscode&theme=dark" />
   </a>
 </p>
 
 #### 🧪 Specialized Spells:
-* **UI/UX:** Native **SwiftUI** (Animations), **UIKit** (Storyboards, XIBs).
-* **Architecture:** **Clean Architecture**, **MVVM**, **MVC**.
-* **Patterns:** Delegation, Singleton, KVO, and Protocol-Oriented Programming.
-* **Concurrency:** Combine, GCD, and modern `async/await`.
+* 🌈 **UI/UX:** Native **SwiftUI** (Animations), **UIKit** (Storyboards, XIBs).
+* 🏗️ **Architecture:** **Clean Architecture**, **MVVM**, **MVC**, **SOLID**.
+* 🧩 **Patterns:** Delegation, Singleton, KVO, and Protocol-Oriented Programming.
+* ⚡ **Concurrency:** **Combine**, **GCD**, and modern **async/await**.
+
+---
+
+### 🚀 Magical Artifacts (Key Projects)
+
+| Project | Description | Core Tech |
+| :--- | :--- | :--- |
+| **📦 Asset** | Service ticket management for restaurant enterprise assets. | SwiftUI, Location Manager |
+| **🛡️ Shopie** | Security app with voice-activated Quiet/Walk modes & emergency video. | AVFoundation, CoreLocation |
+| **📝 Task Easy** | Contractor-based task assignment platform for household services. | UIKit, URLSession, REST API |
 
 ---
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yashChouhanGit&show_icons=true&theme=tokyonight&border_radius=20" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashChouhanGit&theme=tokyonight&hide_border=true" height="150" />
 </p>
 
 <p align="center">
