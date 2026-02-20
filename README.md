@@ -1,15 +1,13 @@
-# <p align="center">✨ The Digital Atelier of ✨</p>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Jua&size=50&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Yash+Chouhan" alt="Name Animation" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0B0E14&height=300&section=header&text=✨%20Yash%20Chouhan%20✨&fontSize=70&animation=fadeIn&fontAlignY=40&desc=Senior%20iOS%20Developer%20|%206%20Years%20of%20Magic&descAlignY=60&descSize=20&fontStyle=round" />
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/49424151/195939769-0559a466-993d-4c3e-8b90-8d54c0df213a.gif" width="100%" />
+  <img src="https://user-images.githubusercontent.com/49424151/195939769-0559a466-993d-4c3e-8b90-8d54c0df213a.gif" width="100%" height="250px" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Comic+Neue&size=25&pause=1000&color=A2D2FF&center=true&vCenter=true&width=600&lines=🌠+Senior+iOS+Developer;🛸+SwiftUI+Artisan;🌌+Clean+Architecture+Architect;✨+6+Years+of+Innovation" alt="Role Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Jua&size=35&pause=1000&color=A2D2FF&center=true&vCenter=true&width=600&lines=🎨+SwiftUI+Artisan;🚀+Clean+Architecture;🌌+Galaxy+Explorer;✨+Daily+DSA+Grinder" alt="Role Animation" />
 </p>
 
 ---
