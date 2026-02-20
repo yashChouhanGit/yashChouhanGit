@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=35&pause=1000&color=F4C2C2&center=true&vCenter=true&width=600&lines=Senior+iOS+Developer;SwiftUI+Artisan;6+Years+of+Mobile+Innovation;Clean+Architecture+Architect" alt="Role Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=35&pause=1000&color=F4C2C2&center=true&vCenter=true&width=600&lines=Senior+iOS+Developer;SwiftUI+UIKit;6+Years+of+Mobile+Innovation;Clean+Architecture+Architect" alt="Role Animation" />
 </p>
 
 <p align="center">
