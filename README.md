@@ -13,7 +13,7 @@
 ### 🧺 A Glimpse Into My World
 I am a **Senior iOS Developer** at **Workpulse Software**, where I blend engineering rigor with creative design. My journey began in 2019, and since then, I have been dedicated to crafting user-centric mobile solutions that feel as smooth as a Ghibli summer breeze.
 
-- 🔭 **Current Quest:** Leading iOS development at Workpulse and mastering **SwiftUI Animations**.
+- 🔭 **Current Quest:** Senior iOS development at Workpulse and mastering **SwiftUI Animations**.
 - 🎨 **Passion:** Implementing **Clean Architecture** and **SOLID** principles to build scalable digital worlds.
 - 🧪 **Daily Ritual:** Sharpening my logic with **DSA** challenges and exploring **SwiftData**.
 
@@ -32,17 +32,6 @@ I am a **Senior iOS Developer** at **Workpulse Software**, where I blend enginee
 * **Patterns:** Delegation, Singleton, KVO, and Protocol-Oriented Programming.
 * **Concurrency:** Combine, GCD, and modern `async/await`.
 
----
-
-### 🚀 Magical Artifacts (Key Projects)
-
-| Project | Description | Core Magic |
-| :--- | :--- | :--- |
-| **📦 Asset** | Modern ticket management for restaurants. | SwiftUI, Location Manager |
-| **🛡️ Shopie** | Security app with voice-activated emergency modes. | Camera, Background Location |
-| **📝 Task Easy** | Contractor-based task assignment platform. | URLSession, REST APIs |
-
----
 
 ### 📈 Growing My Garden
 <p align="center">
