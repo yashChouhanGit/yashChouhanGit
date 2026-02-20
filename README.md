@@ -24,7 +24,7 @@ I am a **Senior iOS Developer** at **Workpulse Software**. Since starting my jou
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="35"> The Artisan's Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=swift,apple,git,github,firebase,cpp,py,vscode&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=swift,apple,git,github,firebase&theme=dark" />
   </a>
 </p>
 
@@ -33,18 +33,6 @@ I am a **Senior iOS Developer** at **Workpulse Software**. Since starting my jou
 * 🏗️ **Architecture:** **Clean Architecture**, **MVVM**, **MVC**, **SOLID**.
 * 🧩 **Patterns:** Delegation, Singleton, KVO, and Protocol-Oriented Programming.
 * ⚡ **Concurrency:** **Combine**, **GCD**, and modern **async/await**.
-
----
-
-### 🚀 Magical Artifacts (Key Projects)
-
-| Project | Description | Core Tech |
-| :--- | :--- | :--- |
-| **📦 Asset** | Service ticket management for restaurant enterprise assets. | SwiftUI, Location Manager |
-| **🛡️ Shopie** | Security app with voice-activated Quiet/Walk modes & emergency video. | AVFoundation, CoreLocation |
-| **📝 Task Easy** | Contractor-based task assignment platform for household services. | UIKit, URLSession, REST API |
-
----
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yashChouhanGit&show_icons=true&theme=tokyonight&border_radius=20" height="150" />
