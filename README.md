@@ -13,7 +13,7 @@
 ---
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Butterfly.png" width="35"> A Glimpse Into My World
-I am a **Senior iOS Developer** at **Workpulse Software**. Since starting my journey in 2019, I have been dedicated to crafting user-centric mobile solutions that feel as smooth as a Ghibli summer breeze. I specialize in building scalable apps that balance complex logic with beautiful design.
+I am a **Senior iOS Developer** at **Workpulse Software**. Since starting my journey in 2019.
 
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Crystal%20Ball.png" width="20"> **Current Quest:** Leading iOS development at **Workpulse** and mastering advanced **SwiftUI Animations**.
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand.png" width="20"> **Passion:** Implementing **Clean Architecture**, **MVVM**, and **SOLID** principles to build world-class applications.
