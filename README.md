@@ -22,7 +22,7 @@ I am a **Senior iOS Developer** at **Workpulse Software**, where I blend enginee
 ### 🛠️ The Artisan's Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=swift,apple,xcode,git,github,cpp,py,firebase&theme=light" />
+    <img src="https://skillicons.dev/icons?i=swift,apple,xcode,git,github,firebase&theme=light" />
   </a>
 </p>
 
