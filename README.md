@@ -1,25 +1,19 @@
-# <p align="center">✨ <font face="Comic Sans MS">The Digital Atelier of</font> ✨</p>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Jua&size=50&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=Yash+Chouhan" alt="Name Animation" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFD93D&height=250&section=header&text=✨%20Yash%20Chouhan%20✨&fontSize=50&animation=fadeIn&fontAlignY=35&fontStyle=round" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Comic+Neue&size=25&pause=1000&color=4ECDC4&center=true&vCenter=true&width=600&lines=🎨+Senior+iOS+Developer;🚀+SwiftUI+Artisan;🛠️+Clean+Architecture+Architect;✨+6+Years+of+Innovation" alt="Role Animation" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFD93D&height=200&section=header&text=Welcome%20to%20my%20Garden%20🍀&fontSize=40&animation=fadeIn&fontAlignY=35&fontStyle=round" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Jua&size=30&pause=1000&color=4ECDC4&center=true&vCenter=true&width=600&lines=🎨+Senior+iOS+Developer;🚀+SwiftUI+Artisan;🛠️+Clean+Architecture+Architect;✨+6+Years+of+Innovation" alt="Role Animation" />
 </p>
 
 ---
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Butterfly.png" width="35"> A Glimpse Into My World
-I am a **Senior iOS Developer** at **Workpulse Software**, where I blend engineering rigor with creative design. My journey began in 2019, and since then, I have been dedicated to crafting user-centric mobile solutions that feel as smooth as a Ghibli summer breeze.
+I am a **Senior iOS Developer** at **Workpulse Software**. My journey began in 2019, and since then, I have been dedicated to crafting user-centric mobile solutions that feel as smooth as a Ghibli summer breeze.
 
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Crystal%20Ball.png" width="20"> **Current Quest:** Senior iOS development at Workpulse and mastering **SwiftUI Animations**.
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand.png" width="20"> **Passion:** Implementing **Clean Architecture** and **SOLID** principles to build scalable digital worlds.
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkler.png" width="20"> **Daily Ritual:** Sharpening my logic with **DSA** challenges and exploring **SwiftData**.
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand.png" width="20"> **Passion:** Implementing **Clean Architecture** and **SOLID** principles.
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkler.png" width="20"> **Daily Ritual:** Sharpening logic with **DSA** and exploring **SwiftData**.
 
 ---
 
@@ -31,7 +25,7 @@ I am a **Senior iOS Developer** at **Workpulse Software**, where I blend enginee
 </p>
 
 #### 🧪 Specialized Spells:
-* 🌈 **UI/UX:** Native **SwiftUI** (Animations), **UIKit**.
+* 🌈 **UI/UX:** Native **SwiftUI** (Animations) & **UIKit**.
 * 🏗️ **Architecture:** **Clean Architecture**, **MVVM**, **MVC**.
 * 🧩 **Patterns:** Delegation, Singleton, KVO, and POP.
 * ⚡ **Concurrency:** Combine, GCD, and modern `async/await`.
