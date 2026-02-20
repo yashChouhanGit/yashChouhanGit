@@ -1,11 +1,14 @@
-# <p align="center">✨ The Digital Atelier of Yash Chouhan ✨</p>
-
+# <p align="center">✨ The Digital Atelier of ✨</p>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=PT+Serif&size=25&pause=1000&color=76946A&center=true&vCenter=true&width=600&lines=Senior+iOS+Developer;SwiftUI+%26+SwiftData+Artisan;Clean+Architecture+Architect;6+Years+of+Mobile+Innovation" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=PT+Serif&size=45&pause=1000&color=76946A&center=true&vCenter=true&width=600&lines=Yash+Chouhan" alt="Name Animation" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=76946A&height=220&section=header&text=Welcome%20to%20my%20Garden&fontSize=40&animation=fadeIn&fontAlignY=38" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=PT+Serif&size=25&pause=1000&color=8DA080&center=true&vCenter=true&width=600&lines=Senior+iOS+Developer;SwiftUI+%26+SwiftData+Artisan;Clean+Architecture+Architect;6+Years+of+Mobile+Innovation" alt="Role Animation" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=76946A&height=200&section=header&text=Welcome%20to%20my%20Garden&fontSize=40&animation=fadeIn&fontAlignY=35" />
 </p>
 
 ---
@@ -31,6 +34,10 @@ I am a **Senior iOS Developer** at **Workpulse Software**, where I blend enginee
 * **Architecture:** **Clean Architecture**, **MVVM**, **MVC**.
 * **Patterns:** Delegation, Singleton, KVO, and Protocol-Oriented Programming.
 * **Concurrency:** Combine, GCD, and modern `async/await`.
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/49424151/200057041-356497f8-b391-4e43-987a-36b048d28122.gif" width="100%" />
+</p>
 
 <p align="center">
   <i>"No matter how many weapons you have... the world cannot live without love." — Castle in the Sky</i>
