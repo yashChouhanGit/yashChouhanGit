@@ -1,9 +1,15 @@
+# <p align="center">✨ The Digital Atelier of ✨</p>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFD93D&height=250&section=header&text=✨%20Yash%20Chouhan%20✨&fontSize=50&animation=fadeIn&fontAlignY=35&fontStyle=round" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Jua&size=50&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Yash+Chouhan" alt="Name Animation" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Jua&size=30&pause=1000&color=4ECDC4&center=true&vCenter=true&width=600&lines=🎨+Senior+iOS+Developer;🚀+SwiftUI+Artisan;🛠️+Clean+Architecture+Architect;✨+6+Years+of+Innovation" alt="Role Animation" />
+  <img src="https://user-images.githubusercontent.com/49424151/195939769-0559a466-993d-4c3e-8b90-8d54c0df213a.gif" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Comic+Neue&size=25&pause=1000&color=A2D2FF&center=true&vCenter=true&width=600&lines=🌠+Senior+iOS+Developer;🛸+SwiftUI+Artisan;🌌+Clean+Architecture+Architect;✨+6+Years+of+Innovation" alt="Role Animation" />
 </p>
 
 ---
@@ -20,7 +26,7 @@ I am a **Senior iOS Developer** at **Workpulse Software**. My journey began in 2
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="35"> The Artisan's Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=swift,apple,git,github,firebase,cpp,py,vscode&theme=light" />
+    <img src="https://skillicons.dev/icons?i=swift,apple,git,github,firebase,cpp,py,vscode&theme=dark" />
   </a>
 </p>
 
@@ -33,11 +39,11 @@ I am a **Senior iOS Developer** at **Workpulse Software**. My journey began in 2
 ---
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/49424151/200057041-356497f8-b391-4e43-987a-36b048d28122.gif" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yashChouhanGit&show_icons=true&theme=tokyonight&border_radius=20" height="150" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yashChouhanGit&show_icons=true&theme=sunshine&border_radius=20" height="150" />
+  <img src="https://raw.githubusercontent.com/MaySper/MaySper/master/img/totoro_walk.gif" width="150" />
 </p>
 
 <p align="center">
