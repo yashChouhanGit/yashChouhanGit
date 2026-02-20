@@ -32,13 +32,6 @@ I am a **Senior iOS Developer** at **Workpulse Software**, where I blend enginee
 * **Patterns:** Delegation, Singleton, KVO, and Protocol-Oriented Programming.
 * **Concurrency:** Combine, GCD, and modern `async/await`.
 
-
-### 📈 Growing My Garden
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yashChouhanGit&show_icons=true&theme=gradianto&hide_border=true" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashChouhanGit&theme=gradianto&hide_border=true" height="160" />
-</p>
-
 <p align="center">
   <i>"No matter how many weapons you have... the world cannot live without love." — Castle in the Sky</i>
 </p>
